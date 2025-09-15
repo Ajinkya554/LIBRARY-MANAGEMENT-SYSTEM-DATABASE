@@ -1,4 +1,4 @@
-# LIBRARY-MANAGEMENT-SYSTEM-DATABAS
+# LIBRARY-MANAGEMENT-SYSTEM-DATABASE DESIGN
 
 
 This repository contains the MySQL ER diagram and database schema for a Library Management System.  
