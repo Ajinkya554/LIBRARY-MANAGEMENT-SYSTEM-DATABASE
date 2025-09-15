@@ -31,3 +31,11 @@ It demonstrates relational database design using MySQL Workbench with tables, pr
    ```bash
    git clone https://github.com/Ajinkya554/LIBRARY-MANAGEMENT-SYSTEM-DATABASE.git
    cd LIBRARY-MANAGEMENT-SYSTEM-DATABASE
+   
+# Author
+Created by Ajinkya Mandwekar  
+GitHub: [Ajinkya554](https://github.com/Ajinkya554) 
+
+# License
+This project is open-source and available under the MIT License.  
+Feel free to use, modify, and learn from it.
